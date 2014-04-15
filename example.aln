@@ -1,0 +1,12 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+seq2            AGTCGTATGCATGTCTAGTCGATTCGA--GATCGTACTTT-TACGTTCACGC--CAGCAT
+seq1            AGCCG-ATGCATG-CTAGTCGA-TCGATCGATCGTACTTTCTACGTTCACGCTGCAGCAT
+seq3            AGTCGAATGCATG-CTAGTCGA-TCG---GATCGTACTTA-TACGTTCACGCTGCAGCAT
+                ** ** ******* ******** ***   **********  ***********  ******
+
+seq2            CGACTGGGTGCTTCGCTGGAAAGCTAGTC
+seq1            CGACTGGG-GCTTCGCTGGAAAGCTAGTC
+seq3            CGACTTGGGGCTTCGCT--AAAGCTAGTC
+                ***** ** ********  **********
